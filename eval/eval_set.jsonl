@@ -1,0 +1,10 @@
+{"question": "How is atrial fibrillation diagnosed?", "expected_doc": "S3"}
+{"question": "What test is used to diagnose type 2 diabetes?", "expected_doc": "S2"}
+{"question": "What are the warning signs of sepsis?", "expected_doc": "S6"}
+{"question": "What do the P wave and QRS complex represent?", "expected_doc": "S4"}
+{"question": "Which lifestyle changes help lower blood pressure?", "expected_doc": "S1"}
+{"question": "What tests detect chronic kidney disease?", "expected_doc": "S7"}
+{"question": "What inhalers are used for asthma?", "expected_doc": "S5"}
+{"question": "Is clinical AI software regulated in the UK?", "expected_doc": "S8"}
+{"question": "What score assesses stroke risk in AF?", "expected_doc": "S3"}
+{"question": "What is the first medicine usually offered for type 2 diabetes?", "expected_doc": "S2"}
